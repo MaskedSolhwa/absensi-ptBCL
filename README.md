@@ -1,1 +1,2 @@
-# absensi-ptBCL
+# absen-pegawai
+Aplikasi Absen Pegawai
